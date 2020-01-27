@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Fasttext文本分类器</title>
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+	</head>
+
+	<body>
+		<header>
+			<div class="container">
+				<div id="brandname">
+					基于Fasttext的文本分类器
+				</div>
+			</div>
+		</header>
+
+		<p style="color:blue;font-size:20;text-align: left;"><b>算法检测结果如下</b></p>
+
+		<div class="results">
+			{% if prediction == "technology"%}
+			<h2>这是<font color="red">technology</font></h2>
+			{% elif prediction == "car"%}
+			<h2>这是<font color="red">car</font></h2>
+			{% elif prediction == "entertainment"%}
+			<h2>这是<font color="red">entertainment</font></h2>
+			{% elif prediction == "military"%}
+			<h2>这是<font color="red">military</font></h2>
+			{% elif prediction == "sports"%}
+			<h2>这是<font color="red">sports</font></h2>
+			{% endif %}
+		</div>
+	</body>
+</html>

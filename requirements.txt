@@ -1,0 +1,6 @@
+numpy
+pandas
+flask
+flask_cors
+jieba
+fasttext

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Fasttext文本分类器</title>
+		<!-- <link rel="stylesheet" type="text/css" href="../static/css/styles.css"> -->
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+	</head>
+
+	<body>
+		<header>
+			<div class="container">
+				<div id="brandname">
+					基于Fasttext的文本分类器
+				</div>
+			</div>
+		</header>
+
+		<div class="ml-container">
+
+			<form action="{{ url_for('predict')}}" method="POST">
+				<p>请在此输入你的检测内容</p>
+				<!-- <input type="text" name="comment"/> -->
+				<textarea name="message" rows="8" cols="100"></textarea>
+				<br/>
+				<input type="submit" class="btn-info" value="预测">
+			</form>
+		</div>
+	</body>
+</html>
