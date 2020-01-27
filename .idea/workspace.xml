@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c521af3b-2b6f-4bdd-a3aa-fee2a6a16a50" name="Default Changelist" comment="" />
+    <list default="true" id="c521af3b-2b6f-4bdd-a3aa-fee2a6a16a50" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WyLBnCf6H2RfEuPxhDpexoG2Lu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,6 +30,8 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/origin_data" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -103,21 +111,21 @@
       <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="551" y="342" key="Github.ShareDialog/0.23.1440.829@0.23.1440.829" timestamp="1580152624730" />
-    <state width="1419" height="205" key="GridCell.Tab.0.bottom" timestamp="1580150825360">
+    <state width="1419" height="205" key="GridCell.Tab.0.bottom" timestamp="1580155453215">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state width="1419" height="205" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1580150825360" />
-    <state width="1419" height="205" key="GridCell.Tab.0.center" timestamp="1580150825359">
+    <state width="1419" height="205" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1580155453215" />
+    <state width="1419" height="205" key="GridCell.Tab.0.center" timestamp="1580155453214">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state width="1419" height="205" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1580150825359" />
-    <state width="1419" height="205" key="GridCell.Tab.0.left" timestamp="1580150825358">
+    <state width="1419" height="205" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1580155453214" />
+    <state width="1419" height="205" key="GridCell.Tab.0.left" timestamp="1580155453213">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state width="1419" height="205" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1580150825358" />
-    <state width="1419" height="205" key="GridCell.Tab.0.right" timestamp="1580150825360">
+    <state width="1419" height="205" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1580155453213" />
+    <state width="1419" height="205" key="GridCell.Tab.0.right" timestamp="1580155453214">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state width="1419" height="205" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1580150825360" />
+    <state width="1419" height="205" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1580155453214" />
   </component>
 </project>
