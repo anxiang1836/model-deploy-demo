@@ -37,6 +37,9 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/origin_data" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/static/css" />
@@ -111,21 +114,21 @@
       <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="551" y="342" key="Github.ShareDialog/0.23.1440.829@0.23.1440.829" timestamp="1580152624730" />
-    <state width="1419" height="205" key="GridCell.Tab.0.bottom" timestamp="1580155453215">
+    <state width="1419" height="205" key="GridCell.Tab.0.bottom" timestamp="1580155715615">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state width="1419" height="205" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1580155453215" />
-    <state width="1419" height="205" key="GridCell.Tab.0.center" timestamp="1580155453214">
+    <state width="1419" height="205" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1580155715615" />
+    <state width="1419" height="205" key="GridCell.Tab.0.center" timestamp="1580155715614">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state width="1419" height="205" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1580155453214" />
-    <state width="1419" height="205" key="GridCell.Tab.0.left" timestamp="1580155453213">
+    <state width="1419" height="205" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1580155715614" />
+    <state width="1419" height="205" key="GridCell.Tab.0.left" timestamp="1580155715614">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state width="1419" height="205" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1580155453213" />
-    <state width="1419" height="205" key="GridCell.Tab.0.right" timestamp="1580155453214">
+    <state width="1419" height="205" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1580155715614" />
+    <state width="1419" height="205" key="GridCell.Tab.0.right" timestamp="1580155715615">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state width="1419" height="205" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1580155453214" />
+    <state width="1419" height="205" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1580155715615" />
   </component>
 </project>
