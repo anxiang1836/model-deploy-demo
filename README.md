@@ -44,4 +44,4 @@ FastText我只简单的训练了对如下几个方向的分类识别：
 
 https://www.zq-ai.com/?from=groupmessage&isappinstalled=0#/nlp/medicalner
 
-![image-20200128230216715](/Users/maxma/Library/Application Support/typora-user-images/image-20200128230216715.png)
+![](https://raw.githubusercontent.com/anxiang1836/FigureBed/master/img/20200128231230.png)
