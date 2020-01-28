@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c521af3b-2b6f-4bdd-a3aa-fee2a6a16a50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +19,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/anxiang1836/model-deploy-demo.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1WyLBnCf6H2RfEuPxhDpexoG2Lu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -102,6 +108,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="348" y="154" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1580140420095">
       <screen x="0" y="23" width="1440" height="829" />
@@ -111,25 +128,33 @@
       <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="443" y="247" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.829@0.23.1440.829" timestamp="1580151289283" />
-    <state x="551" y="342" key="Github.ShareDialog" timestamp="1580152624730">
+    <state x="333" y="40" key="CommitChangelistDialog2" timestamp="1580185744599">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state x="551" y="342" key="Github.ShareDialog/0.23.1440.829@0.23.1440.829" timestamp="1580152624730" />
-    <state width="1419" height="265" key="GridCell.Tab.0.bottom" timestamp="1580183082252">
+    <state x="333" y="40" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1580185744599" />
+    <state x="692" y="335" key="Github.ShareDialog" timestamp="1580185377238">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state width="1419" height="265" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1580183082252" />
-    <state width="1419" height="265" key="GridCell.Tab.0.center" timestamp="1580183082251">
+    <state x="692" y="335" key="Github.ShareDialog/0.23.1440.829@0.23.1440.829" timestamp="1580185377238" />
+    <state width="1419" height="265" key="GridCell.Tab.0.bottom" timestamp="1580187319572">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state width="1419" height="265" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1580183082251" />
-    <state width="1419" height="265" key="GridCell.Tab.0.left" timestamp="1580183082251">
+    <state width="1419" height="265" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1580187319572" />
+    <state width="1419" height="265" key="GridCell.Tab.0.center" timestamp="1580187319571">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state width="1419" height="265" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1580183082251" />
-    <state width="1419" height="265" key="GridCell.Tab.0.right" timestamp="1580183082251">
+    <state width="1419" height="265" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1580187319571" />
+    <state width="1419" height="265" key="GridCell.Tab.0.left" timestamp="1580187319570">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state width="1419" height="265" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1580183082251" />
+    <state width="1419" height="265" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1580187319570" />
+    <state width="1419" height="265" key="GridCell.Tab.0.right" timestamp="1580187319571">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1419" height="265" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1580187319571" />
+    <state x="320" y="179" key="Vcs.Push.Dialog.v2" timestamp="1580187218152">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="320" y="179" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1580187218152" />
   </component>
 </project>
